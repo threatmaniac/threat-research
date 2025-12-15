@@ -32,6 +32,5 @@ Happy Threat Researching hacking and hunting 🧙‍♂️
 | Threat / Use Case | Shodan Query |
 |------------------|-------------|
 | Finds new Remote Administration Tools | `title="Remote Administration Tool" ` |
-| Exposed SSH | `port:22` |
-| Exposed Telnet | `port:23` |
-| C2 Panel | `http.title:"C2 Panel"` |
+| To Find new InfoStealers | `title="InfoStealer"` |
+| C2 Panel | `title="C2 Panel"` |
