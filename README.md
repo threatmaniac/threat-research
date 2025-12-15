@@ -24,3 +24,4 @@ Happy Threat Researching hacking and hunting 🧙‍♂️
 | Exposed RDP | `port:3389` |
 | Exposed SSH | `port:22` |
 | Exposed Telnet | `port:23` |
+| C2 Panel | `http.title:"C2 Panel"` |
