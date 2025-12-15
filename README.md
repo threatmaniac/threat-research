@@ -25,3 +25,13 @@ Happy Threat Researching hacking and hunting 🧙‍♂️
 | Exposed SSH | `port:22` |
 | Exposed Telnet | `port:23` |
 | C2 Panel | `http.title:"C2 Panel"` |
+
+
+## FOFA Queries
+
+| Threat / Use Case | Shodan Query |
+|------------------|-------------|
+| Finds new Remote Administration Tools | `title="Remote Administration Tool" ` |
+| Exposed SSH | `port:22` |
+| Exposed Telnet | `port:23` |
+| C2 Panel | `http.title:"C2 Panel"` |
