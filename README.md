@@ -14,3 +14,13 @@ Happy Threat Researching hacking and hunting 🧙‍♂️
 
  - [Shodan](#-shodan-queries)
  - [FOFA Search Engine](#-google-dorks-tools)
+
+---
+
+## Shodan Queries
+
+| Threat / Use Case | Shodan Query |
+|------------------|-------------|
+| Exposed RDP | `port:3389` |
+| Exposed SSH | `port:22` |
+| Exposed Telnet | `port:23` |
